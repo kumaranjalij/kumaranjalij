@@ -8,9 +8,9 @@ I am currrently pursuing M.Tech in Computer Science and Engineering from Interna
 <br>
 •  I am skillful in crafting dynamic web applications using HTML, CSS, JavaScript, and React.
 <br>
-• Familiar with DevOps practices, including hands-on experience in Jenkins and Docker and possess knowledge and understanding of containerization and CI/CD processes.
+• I am familiar with DevOps practices, including hands-on experience in Jenkins and Docker and possess knowledge and understanding of containerization and CI/CD processes.
 <br>
-• Comfortable working in collaborative environments, utilizing version control systems such as Git for project management and code collaboration.
+• I am comfortable working in collaborative environments, utilizing version control systems such as Git for project management and code collaboration.
 <br>
 
 ---
