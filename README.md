@@ -4,6 +4,8 @@
  <img alt="PROFILE-HEADER-IMAGE" src="https://github.com/kumaranjalij/kumaranjalij/blob/main/github-header-image%20(1).png">
 </picture>
 
+<br>
+
 I am currrently pursuing M.Tech in Computer Science and Engineering from International Institute of Information Technology, Banagalore.
 
 ---
