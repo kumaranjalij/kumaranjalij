@@ -1,7 +1,7 @@
 ## Hello👋, I am [Anjali J Kumar](https://www.linkedin.com/in/kumaranjalij/)
 
 <picture style="padding-bottom:30px;">
- <img alt="PROFILE-HEADER-IMAGE" src="https://github.com/kumaranjalij/kumaranjalij/blob/main/github-header-image%20(6).png">
+ <img alt="PROFILE-HEADER-IMAGE" src="https://github.com/kumaranjalij/kumaranjalij/blob/main/github-header-image-anjali.png">
 </picture>
 
 <br>
