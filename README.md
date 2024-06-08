@@ -1,4 +1,9 @@
-## Hello, I am [Anjali J Kumar](https://www.linkedin.com/in/kumaranjalij/)
+## Hello👋, I am [Anjali J Kumar](https://www.linkedin.com/in/kumaranjalij/)
+
+<picture>
+ <img alt="PROFILE-HEADER-IMAGE" src="https://github.com/kumaranjalij/kumaranjalij/blob/main/github-header-image%20(1).png">
+</picture>
+
 I am currrently pursuing M.Tech in Computer Science and Engineering from International Institute of Information Technology, Banagalore.
 
 ---
