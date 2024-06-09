@@ -56,4 +56,6 @@
           
 <br />
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaranjalij&show_icons=true&theme=radical)
+---
+
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaranjalij&show_icons=true&theme=tokyonight)
