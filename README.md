@@ -6,7 +6,10 @@
 
 <br>
 
-I am currrently pursuing M.Tech in Computer Science and Engineering from International Institute of Information Technology, Banagalore.
+<p>
+ I am currrently pursuing M.Tech in Computer Science and Engineering from International Institute of Information Technology, Banagalore.
+</p>
+
 
 ---
 
