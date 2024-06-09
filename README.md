@@ -51,11 +51,11 @@
 
 <img align="left" alt="C" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
-<img align="left" alt="C" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />    
-
-          
+<img align="left" alt="C" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />            
 <br>
 
 ---
+
+<br>
 
 ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaranjalij&show_icons=true&theme=tokyonight)
