@@ -14,18 +14,6 @@
 
 ---
 
-### My Skills and Competencies
-• I am proficient in C and C++ as primary languages for coding.
-<br>
-•  I am skillful in crafting dynamic web applications using HTML, CSS, JavaScript, and React.
-<br>
-• I am familiar with DevOps practices, including hands-on experience in Jenkins and Docker and possess knowledge and understanding of containerization and CI/CD processes.
-<br>
-• I am comfortable working in collaborative environments, utilizing version control systems such as Git for project management and code collaboration.
-<br>
-
----
-
 ### Languages and Tools
 
 <img align="left" alt="C++" width="45px" style="padding-right:10px;padding-bottom:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
