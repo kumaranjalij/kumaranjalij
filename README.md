@@ -47,7 +47,7 @@
 
 ---
 
-## 🔗 Links
+### 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/kumaranjalij/)
+[![linkedin](https://www.linkedin.com/in/kumaranjalij/)](https://www.linkedin.com/)
 
