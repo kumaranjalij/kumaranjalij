@@ -14,7 +14,7 @@
 
 ---
 
-### Languages and Tools
+### 🛠 Languages and Tools
 
 <img align="left" alt="C++" width="45px" style="padding-right:10px;padding-bottom:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
@@ -46,4 +46,8 @@
 <br>
 
 ---
+
+## 🔗 Links
+
+[![linkedin](https://www.linkedin.com/in/kumaranjalij/)
 
