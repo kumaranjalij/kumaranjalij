@@ -13,6 +13,8 @@ Pursuing an MTech in CSE at IIIT Bangalore, I am passionate about integrating te
 I have actively contributed to diverse projects, including Healthcare Application Development, Recommendation Systems, and DevOps initiatives. Certain skills that I have worked with include React.js, Continuous Integration and Continuous Delivery (CI/CD), Containerization and Orchestration, Machine Learning (Python) and Natural Language Processing (NLP). 
 
 I am also familiar with tools and technologies such as Linux, Jenkins, Docker, Kubernetes, ELK Stack, and Git. What I might lack in skills, I make up for with my determination to learn.
+
+Outside of tech, I enjoy reading and music.
 </p>
 
 ---
