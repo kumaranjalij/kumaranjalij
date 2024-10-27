@@ -45,8 +45,12 @@ Outside of tech, I enjoy reading and music.
 
 <img align="left" alt="C" width="45px" style="padding-right:10px;padding-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
-<img align="left" alt="C" width="45px" style="padding-right:10px;padding-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />     
+<img align="left" alt="C" width="45px" style="padding-right:10px;padding-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
 
+<img align="left" alt="C" width="45px" style="padding-right:10px;padding-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" />
+
+<img align="left" alt="C" width="45px" style="padding-right:10px;padding-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+      
 <br>
 <br>
 
